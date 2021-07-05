@@ -1,0 +1,9 @@
+Instale o seguinte:
+
+cmake: https://pypi.org/project/cmake/
+dlib: https://pypi.org/project/dlib/
+face_recognition: https://pypi.org/project/face-recognition/
+numpy: https://pypi.org/project/numpy/
+opencv-python: https://pypi.org/project/opencv-python/
+
+Coloque uma foto sua na pasta de fotos para o programa reconhecer o seu rosto
