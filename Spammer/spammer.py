@@ -7,7 +7,7 @@ Rode o programa e abra o whatsapp web para enviar a mensagem
 
 def annoyer(n):
     for i in range(n):
-        pyautogui.typewrite("escrava aqui")
+        pyautogui.typewrite("escreva aqui")
         pyautogui.press("enter")
 
 time.sleep(3)
