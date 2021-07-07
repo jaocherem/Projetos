@@ -1,0 +1,4 @@
+Instale o seguinte:
+
+pyttsx3: https://pypi.org/project/pyttsx3/
+speech_recognition: https://pypi.org/project/SpeechRecognition/
