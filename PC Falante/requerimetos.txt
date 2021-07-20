@@ -1,0 +1,3 @@
+instale o seguinte:
+
+pyttsx3: https://pypi.org/project/pyttsx3/
