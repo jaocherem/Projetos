@@ -1,0 +1,3 @@
+Instale o seguinte:
+
+ursina: https://pypi.org/project/ursina/
